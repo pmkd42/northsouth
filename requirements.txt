@@ -1,0 +1,7 @@
+speech_recognition
+nltk
+csv
+optparse
+wavio
+scipy
+sounddevice
